@@ -162,5 +162,5 @@ A esclarecer: Basta um familiar ler para a escola considerar o aviso entregue? A
 
 **História removida:** _[História 5]_
 
-**Justificativa:** _[Essa história teria seus critérios fora do escopo porque é fornece features adicionais, o problema principal já teria sido resolvido com a agenda virtual para o responsável principal.]
+**Justificativa:** _[Essa história teria seus critérios fora do escopo porque é fornece features adicionais, o problema principal já teria sido resolvido com a agenda virtual para o responsável principal.]_
 ---
